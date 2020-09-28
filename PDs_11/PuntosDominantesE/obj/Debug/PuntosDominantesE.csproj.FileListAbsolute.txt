@@ -1,0 +1,121 @@
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.csprojAssemblyReference.cache
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form1.resources
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.Properties.Resources.resources
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.GenerateResource.cache
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.CoreCompileInputs.cache
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe.config
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/bin/Debug/PuntosDominantesE.pdb
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.exe
+C:/Users/Verano/Desktop/Elisa GG/Programa/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.pdb
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe.config
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/bin/Debug/PuntosDominantesE.pdb
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.csprojAssemblyReference.cache
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form1.resources
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.Properties.Resources.resources
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.GenerateResource.cache
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.CoreCompileInputs.cache
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.exe
+C:/Users/Verano/Documents/Elisa GG/Programa/Versiones/PD_2/PuntosDominantesE/PuntosDominantesE/obj/Debug/PuntosDominantesE.pdb
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe.config
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/bin/Debug/PuntosDominantesE.pdb
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.csprojAssemblyReference.cache
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form1.resources
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.Properties.Resources.resources
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.GenerateResource.cache
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.CoreCompileInputs.cache
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.exe
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/PuntosDominantesE/obj/Debug/PuntosDominantesE.pdb
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe.config
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/bin/Debug/PuntosDominantesE.pdb
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.csprojAssemblyReference.cache
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form1.resources
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.Properties.Resources.resources
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.GenerateResource.cache
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.CoreCompileInputs.cache
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.exe
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.pdb
+C:/Users/Elisa/Documents/UNIVERSIDAD/INVESTIGACIÓN/PROGRAMA PDs/Versiones/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form2.resources
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe.config
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/bin/Debug/PuntosDominantesE.exe
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/bin/Debug/PuntosDominantesE.pdb
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.csprojResolveAssemblyReference.cache
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form1.resources
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.Form2.resources
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.Properties.Resources.resources
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.GenerateResource.cache
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.csproj.CoreCompileInputs.cache
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.exe
+/Users/osvaldo/Documents/PDs_11/PuntosDominantesE/obj/Debug/PuntosDominantesE.pdb
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe.config
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.pdb
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csprojAssemblyReference.cache
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form1.resources
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form2.resources
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Properties.Resources.resources
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.GenerateResource.cache
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.exe
+C:\Users\black\Documents\Programas\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.pdb
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csprojAssemblyReference.cache
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form1.resources
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form2.resources
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Properties.Resources.resources
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.GenerateResource.cache
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.CoreCompileInputs.cache
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.exe
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.pdb
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe.config
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe
+C:\Users\black\Documents\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.pdb
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe.config
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.pdb
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csprojAssemblyReference.cache
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form1.resources
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form2.resources
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Properties.Resources.resources
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.GenerateResource.cache
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.CoreCompileInputs.cache
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.exe
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.pdb
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\IrisSkin2.dll
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\MaterialSkin.dll
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.CopyComplete
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\en\PuntosDominantesE.resources.dll
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form1.en.resources
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\en\PuntosDominantesE.resources.dll
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET.Core.dll
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET.Core.xml
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form_BPs_Detection.resources
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form_BPs_Elimination.resources
+D:\Doctorado\Programas DPs\Programas\DPS\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form_BPs_Rearrangement.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csprojAssemblyReference.cache
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form_BPs_Detection.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form1.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form2.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form_BPs_Elimination.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form_BPs_Rearrangement.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Properties.Resources.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.Form1.en.resources
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.GenerateResource.cache
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.CoreCompileInputs.cache
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.exe
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.pdb
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe.config
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.exe
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\PuntosDominantesE.pdb
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\en\PuntosDominantesE.resources.dll
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\IrisSkin2.dll
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET.Core.dll
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\MaterialSkin.dll
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\bin\Debug\Magick.NET.Core.xml
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\en\PuntosDominantesE.resources.dll
+D:\Doctorado\Programas DPs\Programas\DPS method\DPS\PDs_11\PuntosDominantesE\obj\Debug\PuntosDominantesE.csproj.CopyComplete
